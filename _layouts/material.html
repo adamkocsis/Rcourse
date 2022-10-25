@@ -5,4 +5,22 @@ layout: default
 {{content}}
 
 
-<h2>Related exercises: </h>
+<h2>Related exercises: </h2>
+
+<ul>
+{% for row in site.data.exercises %}
+
+{% if row["level"] == page.level %}
+
+{% if row["topic"] == page.topic %}
+
+<li><a href="{{site.url}}{{site.baseurl}}/Exercises/{{row["file"]}}.html">{{row["title"]}}</a></li>
+
+{% endif %}
+
+{% endif %}
+
+
+{% endfor %}
+
+</ul>

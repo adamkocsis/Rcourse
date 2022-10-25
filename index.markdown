@@ -1,43 +1,22 @@
 ---
-title: Introduction
+title: About
 layout: home
 nav_order: 1
+has_children: true
 ---
 
-# Introduction
+# About the R-kheion 
 
-Welcome! The course is designed primarily for Geoscientists. 
+*(**ἀρχεῖον*** [ar.kʰêː.on], *gr.: town hall, public building, public records)*
 
-# Levels (sections)
+* * *
 
-The course is planned to represent 5 different levels of skills: 
+There are more than one ways to learn and do R programming, with lots of resources are available on the internet. But resources are not enough. There is a huge difference between *knowing how* to do something and *actually doing it*. Skills in solving problems are learned with exercising and exploration.
 
+The purpose of this webpage/book is twofold:
 
-### Level 1 - Total Novice
+1. Provide gradual exposure various to topics of learning and using R, linking openly accessible material, whenever they are relevant.
 
-- This level is directed toward people who have no previous programming experience, or are completely novel to the R programming language.
-
-- This section follows a single R script, explaining the contents of the code, and describing the functionality of the basic elements of the language. 
-
-- The **objective** of this part is to ensure the acquisition of skills that help understanding and reading R code. 
-
-- The material of this course is presented in the *Computers in Geosciences* course at the Friedrich-Alexander-University Erlangen-Nürnberg.
-
-### Level 2 - Advanced Beginner
-
-- This level is directed towards beginners who have a basic understanding of the purpose and goal of R programming. The section contains a systematic treatise of the elements of the language, built up from 
-
-- The material of this section is taught in the *Consolidation of R programming skills* language at the Friedrich-Alexander-University Erlangen-Nürnberg.
-
-### Level 3 - Competent (Not yet)
-### Level 4 - Proficient (Not yet)
-### Level 5 - Advanced (Not yet)
+2. Provide a compilation of exercises that ensure the acquisition of problem solving capabilities.
 
 
-# Guidelines
-
-Unlike most tutorials, the material here is does not show you  the result of code is. 
-
-Code instructions are shown such a way:
-
-```

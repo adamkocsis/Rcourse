@@ -1,0 +1,35 @@
+- ref: prediction
+  name: Prediction
+  definition: "*Prediction* of R code behavior."
+  short: "These exercises expect students to be able predict the result of certain R expressions **without using the computer**. Such exercises are very effective in finding uncertainties and gaps in knowledge."
+
+- ref: correction
+  name: Correction
+  definition: "*Correction* of malfunctioning code."
+  short: "Such exercises are invaluable for learning syntax and pattern recognition in computer code."
+  
+- ref: exploration
+  name: Exploration
+  definition: "*Exploration* of R code behavior."
+  short: "Finding combinations is a useful way to get first-hand, personal experience in the language."
+
+- ref: paraphrasing
+  name: Paraphrasing 
+  definition: "*Paraphrasing* on given R expressions."
+  short: "Computer languages are redundant by nature. These exercises expect students to take existing computer code and recalculate the **same result with different tools**."
+
+- ref: optimization
+  name: Paraphrasing 
+  definition: "*Optimization* of ineffective code."
+  short: "Higher-level paraphrasing exercises expect students to **improve the overall performance** of a given code."
+
+
+- ref: modification
+  name: Modification 
+  definition: "*Modification* of existing code to perform calculations. "
+  short: ""
+
+- ref: implementation
+  name: Implementation 
+  definition: "*Implementation* of instructions given in English."
+  short: ""

@@ -2,9 +2,8 @@
 layout: exercise 
 nav_order: 1
 title: Operator types
-level: 2
-topic: operators
-permalink: Exercises/2022-10-18a_operator_types/
+parent: Exercise registry
+id: 2022-10-18a_operator_types
 ---
 
 # Operator types and operands
