@@ -10,7 +10,7 @@ grand_parent: "Level 2 - Advanced Beginner"
 
 # Operators by the number of operands
 
-
+Unary, binary, ternary.
 
 # Operators by the type of return
 
