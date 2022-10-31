@@ -6,4 +6,6 @@ has_children: true
 parent: "Level 2 - Advanced Beginner"
 ---
 
-Material related to types and variables.
+# Conditionals
+
+Now we know enough to make conditional statements.

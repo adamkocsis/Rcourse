@@ -19,7 +19,7 @@
   short: "Computer languages are redundant by nature. These exercises expect students to take existing computer code and recalculate the **same result with different tools**."
 
 - ref: optimization
-  name: Paraphrasing 
+  name: Optimization 
   definition: "*Optimization* of ineffective code."
   short: "Higher-level paraphrasing exercises expect students to **improve the overall performance** of a given code."
 

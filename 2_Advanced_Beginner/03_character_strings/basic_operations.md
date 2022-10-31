@@ -1,8 +1,8 @@
 ---
-parent: "Character strings"
+parent: "Basic character strings" 
 layout: material 
 nav_order: 2
-title: Basic operations 
+title: Basic character operations 
 topic: "basic_operations"
 level: "2"
 grand_parent: "Level 2 - Advanced Beginner"

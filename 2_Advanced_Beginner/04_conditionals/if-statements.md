@@ -3,7 +3,7 @@ parent: "Conditionals"
 layout: material 
 nav_order: 1
 title: If statements 
-topic: "simple_if_statements"
+topic: simple_if_statements
 level: "2"
 grand_parent: "Level 2 - Advanced Beginner"
 ---
@@ -90,15 +90,3 @@ if(NULL) message("Impossible!")
 
 *Side note: numbers including `Inf` will work, because they can be coerced to logical `TRUE` values without problems. We will look at such conversions later.*
 
-## Exercise
-- feedback message on multiple lines and braces
-
-# Nesting 
-
-Similar to parentheses that we can nest to indicate the order of operations such as
-
-```R
-b <- (1 + (12 + 4) * 3) * 4
-```
-
-braces can nested as well. 

@@ -1,5 +1,5 @@
 ---
-parent: "Character strings"
+parent: "Basic character strings" 
 layout: material 
 nav_order: 1
 title: Simple strings 
@@ -35,7 +35,7 @@ If you try to run this statement, then the interpreter will not consider this as
 
 *If you ever see this unexpectedly, then you either need to complete the expression byentering the closing member of the symbol pair, or you can cancel this statement with the `ESC` key. (or `Ctrl`+`C` in a UNIX terminal)*
 
-# Character Strings
+# Characters vs. Character strings
 
 When you include multiple **characters** between the quotes, then you have a **string of characters** or **character strings**:
 

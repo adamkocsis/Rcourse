@@ -8,8 +8,9 @@ level: "2"
 grand_parent: "Level 2 - Advanced Beginner"
 ---
 
-# Unary
+# Operators expecting logical input
 
+## Unary
 The logical not operator `!` reverses the value of `TRUE` or `FALSE`:
 
 ```R
@@ -20,7 +21,7 @@ The logical not operator `!` reverses the value of `TRUE` or `FALSE`:
 !FALSE
 ```
 
-# Binary
+## Binary
 
 ### AND
 
@@ -50,3 +51,15 @@ We do not have an operator for this, but use the function `xor()`.
 | `xor(FALSE, TRUE)`  | `TRUE`  |
 | `xor(TRUE, FALSE)`  | `TRUE`  |
 | `xor(FALSE, FALSE)` | `FALSE` |
+
+# Operators expecting other input 
+
+## Equal to 
+
+## Not equal to 
+
+## Greater, lesser 
+
+## Greater or equal to, lesser or equal to
+
+

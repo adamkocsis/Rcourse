@@ -32,28 +32,28 @@ is `TRUE`.
 TRUE & (TRUE & FALSE)
 ```
 
-### A
+### B
 
 ```R
 TRUE | (TRUE & FALSE)
 ```
 
-### B
+### C
 ```R
 !(TRUE | (TRUE | FALSE))
 ```
 
-### C
+### D
 ```R
 TRUE & !(FALSE | TRUE)
 ```
 
-### D
+### E
 ```R
 !TRUE & !FALSE
 ```
 
-### E
+### F
 ```R
 TRUE | xor(TRUE, TRUE)
 ```

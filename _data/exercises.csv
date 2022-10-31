@@ -1,5 +1,11 @@
 title,file,level,topic,type
 Operator types,2022-10-18a_operator_types,2,operators,exploration
+Length of character strings,2022-10-27_string-length,2,basic_operations,implementation
 Messaging pasted values,2022-10-24b_message_paste,2,basic_operations,modification
 Expanding R statements,2022-10-24a_expansion,2,numeric_operators,paraphrasing
 Exercises with Boolean algebra,2022-10-24c_boolean_algebra,2,logical_operators,prediction
+Types of variables,2022-10-27a_type_detection,2,type_detection,prediction
+Messaging the length of character strings,2022-10-27b_messaging_nchar,2,basic_operations,implementation
+Compliment based on character length,2022-10-27c_if_message_nchar,2,simple_if_statements,implementation
+Correcting syntax of if statements,2022-10-27d_if_syntax,2,simple_if_statements,correction
+Message based on calculation result,2022-10-27e_if_else_message,2,if_and_else_statements,implementation 

@@ -6,4 +6,6 @@ has_children: true
 parent: Level 2 - Advanced Beginner
 ---
 
-Material related to types and variables.
+# Types and Variables
+
+This section will go through the basics of types and operators.
