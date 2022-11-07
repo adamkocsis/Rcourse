@@ -25,7 +25,7 @@ The example above is the simplest possible case for using a conditional. A messa
 
 
 ```R
-# using the equation operator
+# using the double equal operator
 
 # TRUE case
 a <- 12
