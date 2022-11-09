@@ -13,3 +13,6 @@ Predict results of these function calls,2022-11-06_results_of_functions,2,basic_
 Correct function definition syntax,2022-11-06a_definition_correction,2,basic_function_syntax,correction
 The volume of a sphere,2022-11-07a_sphere_volume,2,basic_function_syntax,implementation
 Fahrenheit to Celsius,2022-11-07b_fahrenheit,2,basic_function_syntax,implementation
+Printing types,2022-11-09_printing_types,2,basic_operations,implementation
+Type dependent feedback,2022-11-09b_type_dependent_feedback,2,simple_if_statements,modification
+Is x a number and positive?,2022-11-09c_is_x_a_number_and_positive,2,if_and_else_statements,implementation
