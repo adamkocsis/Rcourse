@@ -10,7 +10,7 @@ parent: Exercise registry
 
 #### Part 1
 
-Using a `while()` loop, write a bit of code that prints out values that prints out all values between 1 and 1000, that are divisible by 7!
+Using a `while()` loop, write a bit of code that prints out all values between 1 and 1000, that are divisible by 7!
 
 #### Part 2
 
