@@ -16,3 +16,6 @@ Fahrenheit to Celsius,2022-11-07b_fahrenheit,2,basic_function_syntax,implementat
 Printing types,2022-11-09_printing_types,2,basic_operations,implementation
 Type dependent feedback,2022-11-09b_type_dependent_feedback,2,simple_if_statements,modification
 Is x a number and positive?,2022-11-09c_is_x_a_number_and_positive,2,if_and_else_statements,implementation
+Printing numbers from 1 to 10,2022-11-14_printing_numbers,2,while_loops,implementation
+Multiplication with a <tt>while()</tt> loop,2022-11-14b_multiplication_while,2,while_loops,paraphrasing
+Calculating <i>n!</i>,2022-11-14c_factorial,2,while_loops,implementation
