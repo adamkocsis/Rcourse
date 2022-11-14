@@ -19,3 +19,6 @@ Is x a number and positive?,2022-11-09c_is_x_a_number_and_positive,2,if_and_else
 Printing numbers from 1 to 10,2022-11-14_printing_numbers,2,while_loops,implementation
 Multiplication with a <tt>while()</tt> loop,2022-11-14b_multiplication_while,2,while_loops,paraphrasing
 Calculating <i>n!</i>,2022-11-14c_factorial,2,while_loops,implementation
+Radians to degrees calculator,2022-11-14d_deg_to_rad,2,basic_function_syntax,implementation
+Repeat message n times,2022-11-14e_repeat_message,2,while_loops,implementation
+Printing values divisible by 7,2022-11-14f_message_7_divisible,2,while_loops,implementation
