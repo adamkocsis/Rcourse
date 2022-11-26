@@ -27,4 +27,7 @@ Visualize the approximation of the Euler constant <i>e</i>,2022-11-21_visualize_
 Golden Rectangles,2022-11-21c_golden_rectangles,2,simple_geometries,exploration
 Circles in circle,2022-11-21d_circles_in_circle,2,simple_geometries,implementation
 Exponents with while,2022-11-21e_exp_with_while,2,while_loops,paraphrasing
+Estimate Euler's number with a given number of iterations,2022-11-26a_euler_function,2,while_euler,implementation
+
+
 
