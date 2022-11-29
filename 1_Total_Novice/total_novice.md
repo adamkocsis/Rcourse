@@ -1,5 +1,5 @@
 ---
-title: Level 1 - Total Novice
+title: Level 1 - Total Novice (Soon!)
 layout: default
 nav_order: 2
 has_children: true
