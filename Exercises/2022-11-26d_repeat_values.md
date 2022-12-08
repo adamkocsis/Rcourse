@@ -2,7 +2,7 @@
 layout: exercise 
 nav_order: 1
 title: Repeat a value a number of times
-id: 2022-11-26a_euler_function
+id: 2022-11-26d_repeat_values
 parent: Exercise registry
 ---
 
@@ -16,7 +16,7 @@ Write a bit of code with a `while()` loop repeat the value `"This is fine!"`, 10
 
 Write a function that does the repetition of any given value, as many times as you like!
 
-| Name   | Repeat()                          |
-| Param  | `x`: what to repeat               |
+| name   | Repeat()                          |
+| params | `x`: what to repeat               |
 |        | `n`: numeric, the times of repeat |
-| Return | A vector of repeated values       |
+| return | A vector of repeated values       |

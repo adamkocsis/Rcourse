@@ -13,6 +13,7 @@ Hearing/reading the same thing again and again in different ways help to properl
 - [R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund
 - [Advanced R](http://adv-r.had.co.nz/) by Hadley Wickham
 - [R packages](https://r-pkgs.org/) by Hadley Wickham
+- [Introduction to Spatial Data Programming with R](http://132.72.155.230:3838/r/index.html) by Michael Dorman
 
 
 # Spatial systems / GIS
