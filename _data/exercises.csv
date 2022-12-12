@@ -32,4 +32,6 @@ Add axis to the right side of a plot,2022-11-26b_axis_position,2,plotting_concep
 Approximate Euler's number and store intermediates in a vector,2022-11-26c_euler_vector,2,combine_values,modification
 Repeat a value a number of times,2022-11-26d_repeat_values,2,combine_values,implementation
 Assess the validity of file paths,2022-11-29_paths_validity,2,paths_and_working_directories,prediction
+Read in files and execute scripts,2022-12-12_read_in_files,2,paths_and_working_directories,implementation
+Number-coded message,2022-12-12b_number_coding,2,numeric_subscripts_vectors,implementation
 
