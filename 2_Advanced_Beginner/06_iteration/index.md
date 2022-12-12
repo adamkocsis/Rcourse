@@ -8,5 +8,5 @@ parent: "Level 2 - Advanced Beginner"
 
 # Iteration basics
 
-This section deals with the basic use of the `while()` loop.
+This section deals with the basic use of the `while` loop.
 

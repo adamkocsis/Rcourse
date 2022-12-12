@@ -8,6 +8,6 @@ parent: "Level 2 - Advanced Beginner"
 
 # Basic plotting
 
-Most plotting functions use structured data for visualization. However, the most elemental functions work with single values and can be used to lay the foundations for more complex plotting. 
+Most plotting functions use structured data for visualization. However, the most elemental functions work with single values and can be used to lay down the foundations for more complex plotting. 
 
 
