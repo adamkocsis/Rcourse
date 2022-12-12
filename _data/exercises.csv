@@ -34,4 +34,5 @@ Repeat a value a number of times,2022-11-26d_repeat_values,2,combine_values,impl
 Assess the validity of file paths,2022-11-29_paths_validity,2,paths_and_working_directories,prediction
 Read in files and execute scripts,2022-12-12_read_in_files,2,paths_and_working_directories,implementation
 Number-coded message,2022-12-12b_number_coding,2,numeric_subscripts_vectors,implementation
+Paraphrasing a sequence,2022-12-12c_sequence_para,2,sequences,paraphrasing
 
