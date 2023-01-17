@@ -42,7 +42,7 @@ hist(normal)
 
 ## Part 3
 
-1. Download this two files to the hard drive: [spiral_x.txt]({{site.url}}{{site.baseurl}}/download/spiral_x.txt) and [spiral_y.txt]({{site.url}}{{site.baseurl}}/download/spiral_x.txt)
+1. Download this two files to the hard drive: [spiral_x.txt]({{site.url}}{{site.baseurl}}/download/spiral_x.txt) and [spiral_y.txt]({{site.url}}{{site.baseurl}}/download/spiral_y.txt)
 2. Put the files in the same directory somewhere!
 3. Modify and run this bit of code until you see a nice plot appearing!
 
