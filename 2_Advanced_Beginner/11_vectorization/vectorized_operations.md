@@ -200,7 +200,8 @@ And we then do the comparison, **but using the original number of zeros**:
 ```R
 numbers2 > rep(0, length(numbers))
 ```
-`[1] FALSE  TRUE FALSE  TRUE FALSE  TRUE FALSE FALSE  
+```
+[1] FALSE  TRUE FALSE  TRUE FALSE  TRUE FALSE FALSE  
 Warning message:  
 In numbers2 > rep(0, length(numbers)) :  
   longer object length is not a multiple of shorter object length`
