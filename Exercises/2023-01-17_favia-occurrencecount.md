@@ -23,7 +23,7 @@ Calculate the number of occurrences and collections of the genus *Favia* in this
 
 4. Calculate how many different collections (entries in the `collection_no` column) there are in this stage! This should be a single numeric value.
 
-5. Calculate which `stg` numbers does this genus occurs! This should be a numeric vector.
+5. Calculate which `stg` numbers does this genus occur in! This should be a numeric vector.
 
 6. Calculate the number of occurrences and collections in every stage! These should be two numeric vectors.
 
