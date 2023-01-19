@@ -30,7 +30,6 @@ Calculate the number of occurrences and collections of the genus *Favia* in this
 *Hint: initially, use a `for` loop to do this - although we will solve this in more functional way too!*
 
 
- 
 
 
 
