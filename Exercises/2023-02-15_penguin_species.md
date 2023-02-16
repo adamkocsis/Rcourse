@@ -17,7 +17,7 @@ Calculate the median body mass of penguin species that were observed at the Palm
 
 3. Subset the data to the the year 2009!
 
-4. Get a complete list of the species that were observed this year!
+4. List the species that were observed this year (every species name occurs once)!
 
 5. Select one species, e.g. the `Gentoo`, and subset the 2009 data to the corresponding part. Calculate the median body size for this species. *Hint: missing values can be omitted if you use `median(x , na.rm=TRUE)` where x is the input vector to the function.*
 
