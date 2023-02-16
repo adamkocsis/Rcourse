@@ -9,7 +9,7 @@ parent: Exercise registry
 
 ## Instructions
 
-Calculate the median body mass of penguin species that were observed at the Palmer station in 2009.
+Calculate the median body mass of penguin species that were observed at the [Palmer station](https://allisonhorst.github.io/palmerpenguins/) in 2009.
 
 1. Download this file: [penguins.csv]({{site.url}}{{site.baseurl}}/download/penguins.csv)
 
