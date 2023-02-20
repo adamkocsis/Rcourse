@@ -42,10 +42,10 @@ Calculate descriptive stats from the [Paleobiology Database](https://paleobiodb.
 
 4. The name of the family that has th highest number of genera.
 
-## Extra 
+## Extra questions 
 
 - Step 4 can be expressed in one line of code, can you write it like that? 
-- Step 6 can be written without a for() loop. Do you know how to do it? 
+- Step 6 can be written without a `for` loop. Do you know how to do it? 
 
 
 
