@@ -12,16 +12,24 @@ grand_parent: "Level 2 - Advanced Beginner"
 
 ### Number of characters in a string
 
-The simples possible operation that we can do with character strings is to know how long they are. In R we do this with the `nchar()` function (**not `length()`**):
+The simplest possible operation that we can do with character strings is to query how long they are. In R we do this with the `nchar()` function (**not `length()`**!):
 
 ```R
 one <- "R"
 nchar(one)
 ```
 
+```
+[1] 1
+```
+
 ```R
 one <- "Really."
 nchar(one)
+```
+
+```
+[1] 7
 ```
 
 ### Concatanating characters into strings
@@ -33,8 +41,6 @@ first <- "Mr."
 second <- "Nimbus"
 paste(first, second)
 ```
-
-The result is:
 
 ```
 "Mr. Nimbus"
@@ -48,6 +54,10 @@ second <- "Nimbus"
 paste(first, first, first, second)
 ```
 
+```
+[1] "Mr. Mr. Mr. Nimbus"
+```
+
 Note the space (`" "`) between the concatenated parts. This appears because the argument `sep` has this as the default value:
 
 ```R
@@ -56,12 +66,20 @@ second <- "Nimbus"
 paste(first, second, sep=" ")
 ```
 
+```
+"Mr. Nimbus"
+```
+
 This you can set to anything else, even entire words:
 
 ```R
 first <- "Mr."
 second <- "Nimbus"
 paste(first, second, sep=" (nope) ")
+```
+
+```
+[1] "Mr. (nope) Nimbus"
 ```
 
 Or nothing at all:
@@ -73,12 +91,21 @@ second <- "Nimbus"
 paste(first, second, sep="")
 ```
 
+```
+"Mr.Nimbus"
+```
+
+
 This is exactly the behavior of variant of this function `paste0()`, which allows you to save writing out this argument:
 
 ```R
 first <- "Mr."
 second <- "Nimbus"
 paste0(first, second)
+```
+
+```
+"Mr.Nimbus"
 ```
 
 ### Printing to the console
@@ -89,10 +116,13 @@ R's console displays us feeback from the console. In case we want to force the p
 message("This is a message.")
 ```
 
-The `message()` function expects a **character string** as input argument. This is where the paste function can be extremely handy.
+```
+This is a message.
+```
 
+The `message()` function expects a **character string** as input argument. This is where the `paste()` function can be extremely handy.
 
-Note that we cannot do much with such messages (for now) - but they can be super informative for learning and to see the sate of our program.
+Note that we cannot do much with such messages (for now) - but they can be super informative for learning, and with them we can always ask about the internal state of our program.
 
 
 

@@ -10,20 +10,20 @@ grand_parent: "Level 2 - Advanced Beginner"
 
 # About character strings
 
-Formally a single **character** represents a single symbol. For instance, this is a single character between the double quotes:
+Formally speaking, a single **character** is a single symbol. For instance, this is a single character between the double quotes:
 
 ```R
 "R"
 ```
 
 
-Luckily, R does not make a difference between single `'` and double `"` quotes, the interpreter will recognize this just as fine, and will immediately turn it to double quotes.
+Luckily, R does not make a difference between single `'` and double `"` quotes, the interpreter will recognize single queotes just as fine, and will immediately turn them into double quotes.
 
 ```R
 'R'
 ```
 
-The only thing that you need to be aware of is that you **cannot mix these up**. 
+The only thing that you need to be aware of is that you **cannot mix up single and double quotes**. 
 
 ```R
 "R' # !!! Not a complete expression
@@ -33,7 +33,7 @@ If you try to run this statement, then the interpreter will not consider this as
 
 ![img]({{site.url}}{{site.baseurl}}/images/R_quote_console.png)
 
-*If you ever see this unexpectedly, then you either need to complete the expression byentering the closing member of the symbol pair, or you can cancel this statement with the `ESC` key. (or `Ctrl`+`C` in a UNIX terminal)*
+*If you ever see this unintentionally, then you either need to complete the expression by entering the closing member of the symbol pair, or you can cancel this statement with the `ESC` key. (or `Ctrl`+`C` in a UNIX terminal)*
 
 # Characters vs. Character strings
 
@@ -49,7 +49,7 @@ You can include anything between these without problems: including single quotes
 "R is 'cheeky'."
 ```
 
-You can also include double quotes, but for that you have to use the so-called **escape characters**, which we will cover at a later point. We will also cover **character vectors**, which are built using individual **character strings**, but first, let's examine what we can do with simple strings.
+You can also include double quotes, but for that you have to use the so-called **escape characters**, which we will cover at a later point. We will also cover **character vectors**, which are built using individual **character strings** (values). But first, let's examine what we can do with simple, single strings.
 
 
 
