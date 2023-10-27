@@ -57,6 +57,11 @@ The function's *arguments* provide ways to influence how the instructions behave
 
 Calls to functions are recognizable from the parentheses `()` that immediately follow the name of the function. The instructions are run only when the function call happens and not before. Inside the parentheses we can provide values for the functions arguments.  
 
+The blue print for function calls is:
+
+```
+<functionName>(<argumentName> = <argumentValue>)
+```
 
 ```R
 Area(r=1)
@@ -67,6 +72,10 @@ Area(r=1)
 ```
 
 In this case, we invoke the area calculation with the radius of `1`, explicitly defining the `r` argument to be `1`, using the equation `=` symbol. The name of the argument is always on the left-hand side, and the value to be assigned to it is on the right-hand side. Multiple arguments are separated with commas (`,`). 
+
+```
+<functionName>(<argumentName> = <argumentValue>, <argumentName> = <argumentValue>, <ADDITIONAL PAIRS> )
+```
 
 # Functions as objects 
 
