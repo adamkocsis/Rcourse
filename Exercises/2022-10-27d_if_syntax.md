@@ -13,7 +13,7 @@ Correct the syntax of the following statements
 ### A
 
 ```
-if(exp()>0{
+if(exp(1)>0{
 	message("This works!")
 }
 ```
