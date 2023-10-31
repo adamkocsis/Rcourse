@@ -10,11 +10,11 @@ parent: Exercise registry
 
 #### Part 1
 
-Using a `while()` loop, write a bit of code that prints out all values between 1 and 1000, that are divisible by 7!
+Using a `while()` loop, write a bit of code that prints out all values between 1 and 1000, but only when they are divisible by 7!
 
 #### Part 2
 
-Write a function that prints out all values up to a positive integer (n) that are divisible by an integer (x)!
+Based on the code that you just wrote, write a function that allows you to print out all values up to a positive integer (n) that are divisible by an integer (x)!
 
 | name:      | Multiples()                                 |
 | arguments: | `x`: the numbers will be multiples of       |

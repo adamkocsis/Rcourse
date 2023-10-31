@@ -27,4 +27,4 @@ Write a `while()` loop to calculate `result` above, without using the the multip
 
 
 
-*Note: this will be insanely ineffective and we never do this in actual applications (multiplications are optimized at the hardware level, so this is a very slow solution). Nevertheless, this is a good exercise to test your understanding of the `while()` loops!
+*Note: this will be insanely ineffective and we never do this in actual applications (multiplications are optimized at the hardware level, so this is a very slow solution). Nevertheless, this is a good exercise to test your understanding of the `while()` loops!*

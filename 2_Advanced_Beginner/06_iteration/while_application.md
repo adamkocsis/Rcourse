@@ -10,7 +10,7 @@ grand_parent: "Level 2 - Advanced Beginner"
 
 # Estimating Euler's number
 
-Iterations are insanely useful for mathematics. There are lots of problems that we can only solve with these, and there are also cases when we can reach to simpler solutions by using such methods.
+Iterations are insanely useful in mathematics. There are lots of problems that we can only solve with iteration, and there are also cases when we can reach to simpler solutions by using methods based on iteration.
 
 For instance, think about this repetition, using either the previous `Fact()` function, or the implementation in base R: `factorial()`:
 
@@ -23,15 +23,16 @@ estimate <- estimate+1/factorial(4)
 estimate <- estimate+1/factorial(5)
 ```
 
-Factorials increase very-very fast, which means that their reciprocals decrease very-very fast as well. If you sum up the entire series of these reciprocals, you approach a constant value, *e*, [Euler's number](https://en.wikipedia.org/wiki/E_(mathematical_constant), one of the most important constants in mathematics.
+Factorials increase very-very fast, which means that their reciprocals decrease very-very fast as well. If you sum up the entire series of these reciprocals, you approach a constant value, *e*, [Euler's number](https://en.wikipedia.org/wiki/E_(mathematical_constant)), one of the most important constants in mathematics.
 
-This value is irrational, which also means that we cannot really use it in calculations with absolute precision, we can only use an approximate estimate. The precision that we want to use depends on the calculation and that will define the number of repetitions of the calculation above. Needless to say, we do not want to write out this repetition, we want to use iteration to get the precision that we want.
+This value is irrational, which also means that we cannot really use it in calculations with absolute precision, we can only use an estimate. The precision that we want to use depends on the calculation and that will define the number of repetitions of the calculation above. Needless to say, we do not want to write out this repetition, we want to use iteration to get the precision that we want.
 
 # Euler's number with while
 
-This is actually rather easy with programming: we define the number of desired iterations (*n*), we count how many repeations we do, and then stop, when we are done.
+This is actually rather easy with programming: we define the number of desired iterations (`n`), we count how many repeations we do (`count`), and then stop, when we are done. We also have to store the result of our calculation (`estimate`).
 
 ```R
+# number of repetitions
 n <- 15
 
 # initialization
@@ -91,9 +92,9 @@ estimate
 2.71828182845823
 ```
 
+**Run this bit of code manually at least once! (manually running the block)**
+
 Note that it is a bit difficult to see how this value changes from this kind of console print. For a more detailed assessment, we have to use a different kind of output. We either need to plot our results, or we have to save every value in an object. 
-
-
 
 # Note about using `while()`
 

@@ -30,5 +30,5 @@ RepMessage(x="Coolness", n=5) # should repeat 5 times
 RepMessage(x="Nope!", n=0) # should not print anything
 ```
 
-Think of cases when thing are really wrong! How should we handle those?
+Think of arguments with which things can go really wrong! How should we handle those?
 

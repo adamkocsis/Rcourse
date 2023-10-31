@@ -20,7 +20,7 @@ n! = 1 * 2 * 3 * ... * n
 
 #### Part 1 - backbone
 
-Write a bit of code using a `while()` loop to calculate n!
+Write a bit of code using a `while()` loop to calculate *n!*! Calculate 12!
 
 #### Part 2 - function
 
