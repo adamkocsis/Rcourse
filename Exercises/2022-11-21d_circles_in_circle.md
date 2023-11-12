@@ -26,4 +26,4 @@ Experiment with setting a different radius (either for the origins or for the ac
 
 #### Part 3
 
-Modify your script to make it possible to change the color of every circle!
+Modify your script to make it possible to change the color of every large circle!
