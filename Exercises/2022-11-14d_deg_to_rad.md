@@ -1,7 +1,7 @@
 ---
 layout: exercise 
 nav_order: 1
-title: Radians to degrees calculator
+title: Degrees to radians calculator 
 id: 2022-11-14d_deg_to_rad
 parent: Exercise registry
 ---
