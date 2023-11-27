@@ -52,6 +52,19 @@ b
 
 Which will return character vector.
 
+Also if you now query the attributes of the vector you will get a response that is not `NULL`.
+
+```R
+att <- attributes(a)
+att
+```
+```
+$names
+[1] "a" "b" "c" "d" "e" "f"
+```
+
+This is the first time when we encounter the `list` type (try `typeof()`, `class()` and `str()` with the `att` object). We will look into `list`s later.
+
 # Correct number of elements
 
 It is logical to assume that the `character` vector assigned to be the `names` attribute should have the same length as the number of elements in the vector.
