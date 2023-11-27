@@ -1,10 +1,10 @@
 ---
 parent: Iteration with <tt>for</tt> 
 layout: material 
-nav_order: 4
+nav_order: 2
 title: The definition of a <tt>for</tt> loop 
 topic: "definition_of_a_for_loop"
-level: "1"
+level: "2"
 grand_parent: "Level 2 - Advanced Beginner"
 ---
 
@@ -27,7 +27,7 @@ message(a[3])
 4
 ```
 
-To repeat this process for the whole vector, we have to change the subscript in every iteration, and let it take up values from `1` to `length(a)`. This we can already do with a `while()` loop:
+To repeat this process for the whole vector, we have to change the subscript in every iteration, and let it take up values from `1` to `length(a)`. This we can already do with a `while` loop:
 
 ```R
 
@@ -58,11 +58,11 @@ while(counter <= length(a)){
 
 which means that we repeat the `message()` function for every elemement of the vector. 
 
-# The Syntax of the `for()` loop
+# The syntax of the `for` loop
 
 Note, that the number of elements in the vector defines the number of iterations that we do. This means that we can use the vector itself to define the loop, rather relying on counting and a condition.
 
-This particular structure occurrs so frequently that we have a dedicated contstruct to implement this, which is the `for()` loop. The exact same loop as above can be written as:
+This particular structure occurrs so frequently that we have a dedicated contstruct to implement this, which is the `for` loop. The exact same loop as above can be written as:
 
 ```R
 for(i in a){
