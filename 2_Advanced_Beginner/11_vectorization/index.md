@@ -1,7 +1,7 @@
 ---
 title: "Vectorization"
 layout: default
-nav_order: 11
+nav_order: 14
 has_children: true
 parent: "Level 2 - Advanced Beginner"
 ---
