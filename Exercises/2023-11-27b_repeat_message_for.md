@@ -8,5 +8,5 @@ parent: Exercise registry
 
 ## Instructions
 
-Solve this [earlier exercise]({{site.url}}{{site.baseurl}}/Exercises/2022-11-14e_repeat_message.html) using a `for` loop rahter than a while loop!
+Solve this [earlier exercise]({{site.url}}{{site.baseurl}}/Exercises/2022-11-14e_repeat_message.html) using a `for` loop rather than a while loop!
 

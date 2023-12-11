@@ -111,6 +111,24 @@ dim(b)
 
 R follows a convention for the organization and display of multidimensional items: The **first dimension is the row**, and the **second is always the column**. Our matrix has three rows because the first value of the `dim` attribute was 3.
 
+You can also query the number of rows and columns directly using the `nrow()` and `ncol()` functions. These will retrurn the first or the second value of the `dim` attribute, respectively.
+
+```R
+nrow(b)
+```
+```
+[1] 3
+```
+
+
+```R
+ncol(b)
+```
+```
+[1] 4
+```
+
+
 Note the order of values in the matrix: as mentioned earlier, the original object structure is still retained. The first value of the matrix is still `21` the second is `22` and so forth. For this reason the numeric subscripts that treat matrices as vectors still work (although we almost never use these - see matrix subscripts later!): 
 
 ```R

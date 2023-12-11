@@ -45,3 +45,5 @@ Nested if statements,2023-10-23-nested_if,2,nested_if_statements,implementation
 Replacing values based on divisibility,2023-11-26-replace_divisibility,2,numeric_replacement_vectors,implementation
 Printing numbers from 1 to 10 with a for loop,2023-11-27_printing_numbers_for,2,definition_of_a_for_loop,implementation
 Repeat message n times with for,2023-11-27b_repeat_message_for,2,definition_of_a_for_loop,implementation
+Matrix of circle points,2023-12-11b_circle-matrix,2,using_matrices,implementation
+Distance matrix between points,2023-12-11_distance-matrix,2,using_matrices,implementation
