@@ -47,3 +47,4 @@ Printing numbers from 1 to 10 with a for loop,2023-11-27_printing_numbers_for,2,
 Repeat message n times with for,2023-11-27b_repeat_message_for,2,definition_of_a_for_loop,implementation
 Matrix of circle points,2023-12-11b_circle-matrix,2,using_matrices,implementation
 Distance matrix between points,2023-12-11_distance-matrix,2,using_matrices,implementation
+Length in a sequence of heads and tails,2023-12-12_ht_sequence_length,2,shuffle_sample,implementation
