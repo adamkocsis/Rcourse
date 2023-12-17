@@ -2,7 +2,7 @@
 parent: Vectorization 
 layout: material 
 nav_order: 1
-title: Vectorized subsetting
+title: Vector subscripts 
 topic: "vectorized_subsetting"
 level: "2"
 grand_parent: "Level 2 - Advanced Beginner"
@@ -42,7 +42,7 @@ sub
 ```
 
 
-This kind of subsetting is extremely useful, and is very frequently used - as a matter of fact, so frequently, that we never use it. The entire the construct above can be expressed with this single line of code:
+This kind of subsetting is extremely useful, and is very frequently used - as a matter of fact, so frequently, that we never use it the way it is written above. We rather used a much simplified form: the entire the construct can be expressed with this single line of code:
 
 ```R 
 numbers[indices]
@@ -50,8 +50,6 @@ numbers[indices]
 ```
 [1] 6 5 4 3
 ```
-
-This is a kind of vectorization: you take a simple calculation (subsetting), and you repeat it with a combination of structures - in this case vectors.
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Randomness"
 layout: default
-nav_order: 12 
+nav_order: 11
 has_children: true
 parent: "Level 2 - Advanced Beginner"
 ---

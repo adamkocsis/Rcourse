@@ -1,7 +1,7 @@
 ---
 parent: Vectorization 
 layout: material 
-nav_order: 2
+nav_order: 3
 title: "Logical subscripts" 
 topic: "logical_subscripts"
 level: "2"

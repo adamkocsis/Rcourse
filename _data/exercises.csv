@@ -48,3 +48,4 @@ Repeat message n times with for,2023-11-27b_repeat_message_for,2,definition_of_a
 Matrix of circle points,2023-12-11b_circle-matrix,2,using_matrices,implementation
 Distance matrix between points,2023-12-11_distance-matrix,2,using_matrices,implementation
 Length in a sequence of heads and tails,2023-12-12_ht_sequence_length,2,shuffle_sample,implementation
+Subset every third value in a vector,2023-12-17a_subset_every_third,2,vectorized_subsetting,paraphrasing
