@@ -3,7 +3,7 @@ parent: Vectorized plotting
 layout: material 
 nav_order: 1
 title: "Vectorized points" 
-topic: "vetorized_points"
+topic: "vectorized_points"
 level: "2"
 grand_parent: "Level 2 - Advanced Beginner"
 ---

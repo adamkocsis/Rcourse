@@ -3,7 +3,7 @@ parent: Vectorization
 layout: material 
 nav_order: 2
 title: "Vectorized functions" 
-topic: "vetorized_functions"
+topic: "vectorized_functions"
 level: "2"
 grand_parent: "Level 2 - Advanced Beginner"
 ---

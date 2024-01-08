@@ -31,5 +31,10 @@
 
 - ref: implementation
   name: Implementation 
-  definition: "*Implementation* of instructions given in English."
+  definition: "*Implementation* of code instructions given in English, usually to create a function."
+  short: ""
+
+- ref: analysis 
+  name: Analysis 
+  definition: "The *analysis* of a given object or file. Answer the questions using progammed data manipulation techniques."
   short: ""

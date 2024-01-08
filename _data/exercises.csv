@@ -49,3 +49,8 @@ Matrix of circle points,2023-12-11b_circle-matrix,2,using_matrices,implementatio
 Distance matrix between points,2023-12-11_distance-matrix,2,using_matrices,implementation
 Length in a sequence of heads and tails,2023-12-12_ht_sequence_length,2,shuffle_sample,implementation
 Subset every third value in a vector,2023-12-17a_subset_every_third,2,vectorized_subsetting,paraphrasing
+Drawing a circle - take 2,2023-12-18_draw_circle_vector,2,vectorized_points,implementation
+Subset vector to divisible parts,2023-12-18b_subset_divisible_vector,2,vectorized_operations,analysis
+Are these functions vectorized?,2024-01-01_vectorized_prediction,2,vectorized_operations,prediction
+Drawing a circle - take 3 (polygon),2024-01-02_circle_polygon,2,vectorized_polygons,implementation
+
