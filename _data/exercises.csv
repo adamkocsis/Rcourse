@@ -53,4 +53,5 @@ Drawing a circle - take 2,2023-12-18_draw_circle_vector,2,vectorized_points,impl
 Subset vector to divisible parts,2023-12-18b_subset_divisible_vector,2,vectorized_operations,analysis
 Are these functions vectorized?,2024-01-01_vectorized_prediction,2,vectorized_operations,prediction
 Drawing a circle - take 3 (polygon),2024-01-02_circle_polygon,2,vectorized_polygons,implementation
+IUCN Chameleon data,2024-01-07_iucn_chameleon_table,2,summary_exercises_2,implementation
 
