@@ -17,7 +17,7 @@ We will use a subset of this database to look at the durations (the length of th
 
 *The expected result of a step is indicated in italics at the end of the step.*
 
-**1.** Download the compendium from here: [sepkoski_kiessling_processed.csv]({{site.url}}{{site.baseurl}}/download/sepkoski_kiessling_processed.csv). The one that this exercise uses is a copy processed by Wolfgang Kiessling, and it has entries that match multiple updated timescales. 
+**1.** Download the compendium from here: [sepkoski_kiessling_processed.csv]({{site.url}}{{site.baseurl}}/download/sepkoski_kiessling_processed.csv). The one that this exercise uses is a copy processed by Wolfgang Kiessling and myself, and it has entries that match multiple updated timescales. 
 
 **2.** Read in this file with `read.csv()` (remember to adjust the `sep` argument if necessary!)! Check its structure and ensure that the dataset has been read in correctly. (*a `data.frame` object*)
 
@@ -25,7 +25,7 @@ We will use a subset of this database to look at the durations (the length of th
 
 **3.** Create a subset of the `data.frame`, for the phylum `"Mollusca"`! Make a character vector with all the **classes** that this phylum has in the database! How many different class entries are there?  *(a `character` vector, and a single `integer` value)* 
 
-**4** There is one class entry in this subset, which is not a proper class name (there are some more with questions marks!). Get rid of the data from this 'class'! Filter out the row(s) that belong to this entry and create an updated version of the mollusk subset! Again, list out the different class names and save them in a vector! *(a `data.frame`, and a `character` vector)*
+**4.** There is one class entry in this subset, which is not a proper class name (there are some more with questions marks!). Get rid of the data from this 'class', filter out the row(s) that belong to this entry and create an updated version of the mollusk subset! Again, list out the different class names and save them in a vector! *(a `data.frame`, and a `character` vector)*
 
 **5.** Calculate the mean **duration** of all **Bivalve** genera (the rows that are in class `Bivalvia`) in the dataset! *(`numeric` value)*   
 You can do this by following these steps:  
