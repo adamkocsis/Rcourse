@@ -17,9 +17,9 @@ Calculate the number of series/epochs in all Phanerozoic geological systems/peri
 
 3. Subset to the Phanerozoic!
 
-4. Select one system/period, e.g. the `"Jurassic"`, and subset the table to the corresponding part. Count how many different series/epochs there was in it. (`length(unique())`) 
+4. Select one system/period, e.g. the `"Jurassic"`, and subset the result of step 3. to the corresponding part. Count how many different series/epochs there was in it. (`length(unique())`) 
 
-5. Get a complete list of different systems/periods, which should be a vector, where every item occurs only once. 
+5. Get the names of every system/period, and have these in a vector, where every item occurs only once (character vector). 
 
 6. Repeat step 4 with a `for()` loop, calculate the number of epochs in every period.
 
@@ -31,8 +31,8 @@ Calculate the number of series/epochs in all Phanerozoic geological systems/peri
 
 A named numeric vector:
 
-names: periods/systems
-values: the number of series/epochs in every period.
+- **names**: periods/systems
+- **values**: the number of series/epochs in every period.
 
 
  
