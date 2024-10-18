@@ -19,17 +19,9 @@ one <- "R"
 nchar(one)
 ```
 
-```
-[1] 1
-```
-
 ```R
 one <- "Really."
 nchar(one)
-```
-
-```
-[1] 7
 ```
 
 ### Concatanating characters into strings
@@ -42,20 +34,12 @@ second <- "Nimbus"
 paste(first, second)
 ```
 
-```
-"Mr. Nimbus"
-```
-
 The function `paste()` accepts as many arguments as you like: 
 
 ```R
 first <- "Mr."
 second <- "Nimbus"
 paste(first, first, first, second)
-```
-
-```
-[1] "Mr. Mr. Mr. Nimbus"
 ```
 
 Note the space (`" "`) between the concatenated parts. This appears because the argument `sep` has this as the default value:
@@ -66,20 +50,12 @@ second <- "Nimbus"
 paste(first, second, sep=" ")
 ```
 
-```
-"Mr. Nimbus"
-```
-
 This you can set to anything else, even entire words:
 
 ```R
 first <- "Mr."
 second <- "Nimbus"
 paste(first, second, sep=" (nope) ")
-```
-
-```
-[1] "Mr. (nope) Nimbus"
 ```
 
 Or nothing at all:
@@ -91,10 +67,6 @@ second <- "Nimbus"
 paste(first, second, sep="")
 ```
 
-```
-"Mr.Nimbus"
-```
-
 
 This is exactly the behavior of variant of this function `paste0()`, which allows you to save writing out this argument:
 
@@ -104,20 +76,12 @@ second <- "Nimbus"
 paste0(first, second)
 ```
 
-```
-"Mr.Nimbus"
-```
-
 ### Printing to the console
 
 R's console displays us feeback from the console. In case we want to force the printing of some information to the console, the nicest way of doing that is with the `message()` function, that wraps the information in a nice and clean way:
 
 ```R
 message("This is a message.")
-```
-
-```
-This is a message.
 ```
 
 The `message()` function expects a **character string** as input argument. This is where the `paste()` function can be extremely handy.

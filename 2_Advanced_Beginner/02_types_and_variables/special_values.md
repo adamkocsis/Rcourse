@@ -1,7 +1,7 @@
 ---
 parent: Types and Variables 
 layout: material 
-nav_order: 5
+nav_order: 6
 title: Special Values 
 topic: "special_values"
 level: "7"
@@ -10,9 +10,9 @@ grand_parent: "Level 2 - Advanced Beginner"
 
 # Missing values (`NA`)
 
-**Missing values** are the most frequently used special values in R. They are denoted as `NA`, which stands either for `Not available` or `Not Applicable`.
+**Missing values** are the most frequently used special values in R. They are denoted as `NA`, which stands either for `Not Available` or `Not Applicable`.
 
-A single `NA` on its own defaults to a `logical` type (in vectors, they are adopt the type o f the vector).
+A single `NA` on its own defaults to a `logical` type (in vectors, they adopt the type of the vector).
 
 ```R
 typeof(NA)
