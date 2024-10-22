@@ -20,7 +20,7 @@ Fill out the table below, indicating the type that is returned when you use an o
 
 |           | logical | numeric | character | logical-numeric | numeric-character |
 |-----------|---------|---------|-----------|-----------------|-------------------|
-| `!`       |         |         |           |      -          |         -         |
+| `!`       |         |         |           | N/A             | N/A               |
 | `==`      |         |         |           |                 |                   |
 | `>`, `<=` |         |         |           |                 |                   |
 | `|`       |         |         |           |                 |                   |
@@ -29,8 +29,8 @@ Fill out the table below, indicating the type that is returned when you use an o
 | `*`       |         |         |           |                 |                   |
 | `/`       |         |         |           |                 |                   |
 | `**`, `^` |         |         |           |                 |                   |
-| `%`       |         |         |           |                 |                   |
+| `%%`      |         |         |           |                 |                   |
 
-If a combination leads to an error, indicate that an error is returned! 
+If a combination leads to an error, indicate that an error is returned!
 
 *Hint: copy the table to a spreadsheet program or a text editor!*
