@@ -9,7 +9,7 @@ parent: Exercise registry
 
 ## Instructions
 
-Modifiy the following code to display your name and age as a console message.
+Modify the following code to display your name and age as a console message (with `message`)!
 
 * * *
 
@@ -28,5 +28,5 @@ message(input)
 
 ### Part 2
 
-Replace `paste()` with `paste0()`, and adjust the arguments in it so you can add the comma aafter the name!
+Replace `paste()` with `paste0()`, and adjust the arguments in it so you can add the comma after your name!
 

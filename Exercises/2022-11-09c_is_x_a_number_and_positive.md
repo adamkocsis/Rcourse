@@ -11,9 +11,9 @@ parent: Exercise registry
 We have one variable, which can be anything:
 
 ```R
-x <- 
+x <-  -5.4
 ```
 
 Write a bit of code that prints to the console
 1. Whether the input is numeric or not, and ... 
-2. ... if it is numeric, whether it is positive or lower than or equal to 0!
+2. ... if it is numeric, whether it is (a) positive or (b) lower than or equal to 0!

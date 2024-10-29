@@ -10,7 +10,7 @@ parent: Exercise registry
 
 #### Part 1
 
-Use the `is.<type>` family of functions to express what the following bit of code is doing in a different way:
+Use the `is.<type>` family of functions to express what the following bit of code is doing in a different way (i.e. you must not use `typeof()`!):
 
 ```R
 # our input

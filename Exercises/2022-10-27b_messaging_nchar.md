@@ -11,7 +11,7 @@ parent: Exercise registry
 
 #### Step 1
 
-Make a variable called `text` that stores a characater string, for instance, this:
+Make a variable called `text` that stores a character string, for instance, this:
 
 ```
 "This is a string!"
@@ -19,13 +19,13 @@ Make a variable called `text` that stores a characater string, for instance, thi
 
 #### Step 2
 
-Use a combination of `paste()`, `nchar()` and `message()` to display how many characters the string stored in `text` has in this format:
+Use a combination of `paste()`, `nchar()` and `message()` to display how many characters the string stored in `text` has using this format:
 
 ```
 Your string 'This is a string!' contains 17 characters!
 ```
 
-*Note that 17 be calculated from the string that you entered and not hard-coded in your program!* 
+*Note that 17 needs to be calculated from the string that you entered and not hard-coded in your program!* 
 
 #### Step 3
 Make sure to try it with another string!

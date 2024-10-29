@@ -29,7 +29,7 @@ Test your code with:
 var <- "code"
 ```
 
-The result you get should be
+The result you should be
 
 ```
 The variable 'var' contains the value 'code', and it is of type 'character'.
@@ -37,4 +37,11 @@ The variable 'var' contains the value 'code', and it is of type 'character'.
 
 #### Part 3. 
 
-Test your code with different types assigned to 'var'! 
+Test your code with different types assigned to 'var', e.g.:
+
+```R
+var <- 1.2e4
+var <- TRUE 
+```
+
+
