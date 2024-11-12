@@ -1,7 +1,7 @@
 ---
 layout: exercise 
 nav_order: 1
-title: Type dependent feedback
+title: Type-dependent feedback
 id: 2022-11-09b_type_dependent_feedback
 parent: Exercise registry
 ---

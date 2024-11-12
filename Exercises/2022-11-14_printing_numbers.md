@@ -8,5 +8,5 @@ parent: Exercise registry
 
 ## Instructions
 
-Write a bit code using a `while()` loop to print all numbers from 1 to 10!
+Write a bit of code using a `while()` loop to print all numbers from 1 to 10!
 
