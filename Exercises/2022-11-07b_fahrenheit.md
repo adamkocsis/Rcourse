@@ -13,7 +13,7 @@ Based on an [other exercise]({{site.url}}{{site.baseurl}}/Exercises/2022-11-06a_
 | what        | name                  |
 |-------------|-----------------------|
 | name        | FahrenheitToCelsius() |
-| argument(s) | celsius               |
+| argument(s) | fahrenheit            |
 | return      | single numeric value  |
 
 ## Testing
