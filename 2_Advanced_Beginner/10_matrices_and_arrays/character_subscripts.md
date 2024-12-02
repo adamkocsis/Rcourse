@@ -130,9 +130,3 @@ A B C
 
 This is very likely not the desired behavior, as there are multiple rows with the same name. For this reason, try to avoid using duplicates in the row and column names in matrices and arrays - and test for duplications if you are uncertain!
 
-
-
-
-# IMPORTANT NOTE about the use
->In the case of matrices, the dimensions are equal from the functional point of view. 
-{: .warning }

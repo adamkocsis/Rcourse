@@ -10,7 +10,7 @@ grand_parent: "Level 2 - Advanced Beginner"
 
 # Why
 
-Matrices are the first objects, that resemble normal tables, so it might be tempting to use matrices in when we want to represent tabular data. The use of the matrix class however is not always justified for this and there are special cases when you would prefer storing data in matrices compared to R's general class to store tabular data: the `data.frame`. Matrices store the data of the same `type` and typically do not discriminate between rows and columns in functionality. 
+Matrices are the first objects, that resemble normal tables, so it might be tempting to use matrices in when we want to represent tabular data. The use of the `matrix` class however is not always justified for this and there are special cases when you would prefer storing data in matrices compared to R's general class to store tabular data: the `data.frame`. Matrices store the data of the same `type` and typically do not discriminate between rows and columns in functionality. 
 
 A good example for this is the so-called contingency table (which can be generated with the `table` function), that registeres the number of times, a particular combination occurs. 
 
@@ -222,8 +222,3 @@ c 2.236068 1.414214 0.000000
 
 
 
-
-
-modifiy DrawCircle
-
-calculate distance matrix between a set of points. 

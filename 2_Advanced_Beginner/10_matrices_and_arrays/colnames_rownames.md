@@ -157,7 +157,7 @@ $dimnames[[2]]
 
 Now this is getting complex looking - that is because the `attributes` and the `dimnames` inside them are stored using the `list` type, which can be recognized from the dollar `$` symbols. This implementation allows more general use for n-dimensional matrices. We will learn how to interact directly with these later. 
 
->The `list`s are necessary because even though the same type is used for the row and column (or the nth dimension's) names, their number can be different! 
+>The `list`s are necessary because even though the same type (character) is used for the row and column (or the nth dimension's) names, their number can be different! 
 
 
 
