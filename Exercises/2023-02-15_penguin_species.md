@@ -29,16 +29,18 @@ Calculate the median body mass of penguin species that were observed at the [Pal
 boxplot(body_mass_g ~ species, data=yearDat)
 ```
 
-Check your results with this. The thick black horizontal lines should indicate the medians that you calculated earlier.
+Cross check your results from point **6.** with the results shown on the boxplot. The thick black horizontal lines should indicate the medians that you calculated earlier.
 
 ## Expected outputs
 
-1. A named numeric vector:
+**4.** a Vector of species names (every species just once).
 
-`names`: names of species 
-`values`: the median body mass of species
+**6.** A named numeric vector:
 
-2. A boxplot 
+- `names`: names of species 
+- `values`: the median body mass of species
+
+**7.** A boxplot 
 
 
 
